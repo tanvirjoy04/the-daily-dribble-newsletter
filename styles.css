@@ -1,0 +1,50 @@
+html{
+  display:flex;
+  justify-content: center;
+}
+
+body{
+  flex:0;
+  text-align: center;
+  margin:0;
+  border: 3px solid;
+  padding: 20px 50px;
+  font-family: sans-serif;
+}
+
+h1{
+  color:#121212;
+  font-family: sans-serif;
+}
+
+img{
+  width: 380px;
+}
+
+.text{
+  /* border: 2px solid red; */
+  margin: 15px 0;
+}
+
+button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid black;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.enter-button{
+  background-color: white;
+  padding: 10px 45px;
+  margin-top: 30px;
+  color:dimgray;
+}
+
+.join-button{
+  background-color: black;
+  color: white;
+  padding: 10px 82px;
+  margin-top: 10px;
+}
