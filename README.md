@@ -1,5 +1,5 @@
-# Solo Project (PRO) - The Daily Dribble Newsletter
-Solo Project aimed for Advanced Students learning Frontend development.
+# The Daily Dribble Newsletter
+Project aimed for Advanced Students learning Frontend development.
 
 
 **Image credit: [Thomas Serer](https://unsplash.com/@jesusance)**
